@@ -10,3 +10,7 @@ Work in progress
 # Payment Feature
 
 Under Development
+
+# Profile Feature
+
+Created by Developer 1
